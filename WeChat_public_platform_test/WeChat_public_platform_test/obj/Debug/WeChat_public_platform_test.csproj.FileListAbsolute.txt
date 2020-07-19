@@ -1,0 +1,2 @@
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChat_public_platform_test\obj\Debug\WeChat_public_platform_test.csprojAssemblyReference.cache
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChat_public_platform_test\obj\Debug\WeChat_public_platform_test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\bin\Debug\netcoreapp2.1\WeChatPublicPlatform.deps.json
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\bin\Debug\netcoreapp2.1\WeChatPublicPlatform.runtimeconfig.json
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\bin\Debug\netcoreapp2.1\WeChatPublicPlatform.runtimeconfig.dev.json
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\bin\Debug\netcoreapp2.1\WeChatPublicPlatform.dll
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\bin\Debug\netcoreapp2.1\WeChatPublicPlatform.pdb
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.csproj.CoreCompileInputs.cache
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.RazorAssemblyInfo.cache
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.RazorAssemblyInfo.cs
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.AssemblyInfoInputs.cache
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.AssemblyInfo.cs
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.RazorTargetAssemblyInfo.cache
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.dll
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.pdb
+D:\My\Code\application\My_Wechat_Public_Platform\WeChat_public_platform_test\WeChatPublicPlatform\obj\Debug\netcoreapp2.1\WeChatPublicPlatform.csprojAssemblyReference.cache
